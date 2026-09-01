@@ -9,9 +9,6 @@
     "dev": "node --watch server.js"
   },
   "dependencies": {
-    "@capacitor/cli": "^8.5.1",
-    "@capacitor/core": "^8.5.1",
-    "@capacitor/ios": "^8.5.1",
     "express": "^4.19.2",
     "uuid": "^9.0.1"
   },
