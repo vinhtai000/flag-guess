@@ -1,0 +1,1208 @@
+[
+  {
+    "id": 1,
+    "country": "Afghanistan",
+    "code": "af",
+    "level": "hard"
+  },
+  {
+    "id": 2,
+    "country": "Albania",
+    "code": "al",
+    "level": "hard"
+  },
+  {
+    "id": 3,
+    "country": "Algeria",
+    "code": "dz",
+    "level": "easy"
+  },
+  {
+    "id": 4,
+    "country": "Andorra",
+    "code": "ad",
+    "level": "hard"
+  },
+  {
+    "id": 5,
+    "country": "Angola",
+    "code": "ao",
+    "level": "hard"
+  },
+  {
+    "id": 6,
+    "country": "Antigua and Barbuda",
+    "code": "ag",
+    "level": "hard"
+  },
+  {
+    "id": 7,
+    "country": "Argentina",
+    "code": "ar",
+    "level": "easy"
+  },
+  {
+    "id": 8,
+    "country": "Armenia",
+    "code": "am",
+    "level": "hard"
+  },
+  {
+    "id": 9,
+    "country": "Australia",
+    "code": "au",
+    "level": "easy"
+  },
+  {
+    "id": 10,
+    "country": "Austria",
+    "code": "at",
+    "level": "easy"
+  },
+  {
+    "id": 11,
+    "country": "Azerbaijan",
+    "code": "az",
+    "level": "hard"
+  },
+  {
+    "id": 12,
+    "country": "Bahamas",
+    "code": "bs",
+    "level": "hard"
+  },
+  {
+    "id": 13,
+    "country": "Bahrain",
+    "code": "bh",
+    "level": "hard"
+  },
+  {
+    "id": 14,
+    "country": "Bangladesh",
+    "code": "bd",
+    "level": "easy"
+  },
+  {
+    "id": 15,
+    "country": "Barbados",
+    "code": "bb",
+    "level": "hard"
+  },
+  {
+    "id": 16,
+    "country": "Belarus",
+    "code": "by",
+    "level": "hard"
+  },
+  {
+    "id": 17,
+    "country": "Belgium",
+    "code": "be",
+    "level": "easy"
+  },
+  {
+    "id": 18,
+    "country": "Belize",
+    "code": "bz",
+    "level": "hard"
+  },
+  {
+    "id": 19,
+    "country": "Benin",
+    "code": "bj",
+    "level": "hard"
+  },
+  {
+    "id": 20,
+    "country": "Bhutan",
+    "code": "bt",
+    "level": "hard"
+  },
+  {
+    "id": 21,
+    "country": "Bolivia",
+    "code": "bo",
+    "level": "hard"
+  },
+  {
+    "id": 22,
+    "country": "Bosnia and Herzegovina",
+    "code": "ba",
+    "level": "hard"
+  },
+  {
+    "id": 23,
+    "country": "Botswana",
+    "code": "bw",
+    "level": "hard"
+  },
+  {
+    "id": 24,
+    "country": "Brazil",
+    "code": "br",
+    "level": "easy"
+  },
+  {
+    "id": 25,
+    "country": "Brunei",
+    "code": "bn",
+    "level": "hard"
+  },
+  {
+    "id": 26,
+    "country": "Bulgaria",
+    "code": "bg",
+    "level": "hard"
+  },
+  {
+    "id": 27,
+    "country": "Burkina Faso",
+    "code": "bf",
+    "level": "hard"
+  },
+  {
+    "id": 28,
+    "country": "Burundi",
+    "code": "bi",
+    "level": "hard"
+  },
+  {
+    "id": 29,
+    "country": "Cambodia",
+    "code": "kh",
+    "level": "hard"
+  },
+  {
+    "id": 30,
+    "country": "Cameroon",
+    "code": "cm",
+    "level": "hard"
+  },
+  {
+    "id": 31,
+    "country": "Canada",
+    "code": "ca",
+    "level": "easy"
+  },
+  {
+    "id": 32,
+    "country": "Cape Verde",
+    "code": "cv",
+    "level": "hard"
+  },
+  {
+    "id": 33,
+    "country": "Central African Republic",
+    "code": "cf",
+    "level": "hard"
+  },
+  {
+    "id": 34,
+    "country": "Chad",
+    "code": "td",
+    "level": "hard"
+  },
+  {
+    "id": 35,
+    "country": "Chile",
+    "code": "cl",
+    "level": "easy"
+  },
+  {
+    "id": 36,
+    "country": "China",
+    "code": "cn",
+    "level": "easy"
+  },
+  {
+    "id": 37,
+    "country": "Colombia",
+    "code": "co",
+    "level": "easy"
+  },
+  {
+    "id": 38,
+    "country": "Comoros",
+    "code": "km",
+    "level": "hard"
+  },
+  {
+    "id": 39,
+    "country": "Costa Rica",
+    "code": "cr",
+    "level": "hard"
+  },
+  {
+    "id": 40,
+    "country": "Croatia",
+    "code": "hr",
+    "level": "hard"
+  },
+  {
+    "id": 41,
+    "country": "Cuba",
+    "code": "cu",
+    "level": "easy"
+  },
+  {
+    "id": 42,
+    "country": "Cyprus",
+    "code": "cy",
+    "level": "hard"
+  },
+  {
+    "id": 43,
+    "country": "Czechia",
+    "code": "cz",
+    "level": "hard"
+  },
+  {
+    "id": 44,
+    "country": "Denmark",
+    "code": "dk",
+    "level": "easy"
+  },
+  {
+    "id": 45,
+    "country": "Djibouti",
+    "code": "dj",
+    "level": "hard"
+  },
+  {
+    "id": 46,
+    "country": "Dominica",
+    "code": "dm",
+    "level": "hard"
+  },
+  {
+    "id": 47,
+    "country": "Dominican Republic",
+    "code": "do",
+    "level": "hard"
+  },
+  {
+    "id": 48,
+    "country": "DR Congo",
+    "code": "cd",
+    "level": "hard"
+  },
+  {
+    "id": 49,
+    "country": "Ecuador",
+    "code": "ec",
+    "level": "hard"
+  },
+  {
+    "id": 50,
+    "country": "Egypt",
+    "code": "eg",
+    "level": "easy"
+  },
+  {
+    "id": 51,
+    "country": "El Salvador",
+    "code": "sv",
+    "level": "hard"
+  },
+  {
+    "id": 52,
+    "country": "Equatorial Guinea",
+    "code": "gq",
+    "level": "hard"
+  },
+  {
+    "id": 53,
+    "country": "Eritrea",
+    "code": "er",
+    "level": "hard"
+  },
+  {
+    "id": 54,
+    "country": "Estonia",
+    "code": "ee",
+    "level": "hard"
+  },
+  {
+    "id": 55,
+    "country": "Eswatini",
+    "code": "sz",
+    "level": "hard"
+  },
+  {
+    "id": 56,
+    "country": "Ethiopia",
+    "code": "et",
+    "level": "hard"
+  },
+  {
+    "id": 57,
+    "country": "Fiji",
+    "code": "fj",
+    "level": "hard"
+  },
+  {
+    "id": 58,
+    "country": "Finland",
+    "code": "fi",
+    "level": "easy"
+  },
+  {
+    "id": 59,
+    "country": "France",
+    "code": "fr",
+    "level": "easy"
+  },
+  {
+    "id": 60,
+    "country": "Gabon",
+    "code": "ga",
+    "level": "hard"
+  },
+  {
+    "id": 61,
+    "country": "Gambia",
+    "code": "gm",
+    "level": "hard"
+  },
+  {
+    "id": 62,
+    "country": "Georgia",
+    "code": "ge",
+    "level": "hard"
+  },
+  {
+    "id": 63,
+    "country": "Germany",
+    "code": "de",
+    "level": "easy"
+  },
+  {
+    "id": 64,
+    "country": "Ghana",
+    "code": "gh",
+    "level": "hard"
+  },
+  {
+    "id": 65,
+    "country": "Greece",
+    "code": "gr",
+    "level": "easy"
+  },
+  {
+    "id": 66,
+    "country": "Grenada",
+    "code": "gd",
+    "level": "hard"
+  },
+  {
+    "id": 67,
+    "country": "Guatemala",
+    "code": "gt",
+    "level": "hard"
+  },
+  {
+    "id": 68,
+    "country": "Guinea",
+    "code": "gn",
+    "level": "hard"
+  },
+  {
+    "id": 69,
+    "country": "Guinea-Bissau",
+    "code": "gw",
+    "level": "hard"
+  },
+  {
+    "id": 70,
+    "country": "Guyana",
+    "code": "gy",
+    "level": "hard"
+  },
+  {
+    "id": 71,
+    "country": "Haiti",
+    "code": "ht",
+    "level": "hard"
+  },
+  {
+    "id": 72,
+    "country": "Honduras",
+    "code": "hn",
+    "level": "hard"
+  },
+  {
+    "id": 73,
+    "country": "Hungary",
+    "code": "hu",
+    "level": "hard"
+  },
+  {
+    "id": 74,
+    "country": "Iceland",
+    "code": "is",
+    "level": "hard"
+  },
+  {
+    "id": 75,
+    "country": "India",
+    "code": "in",
+    "level": "easy"
+  },
+  {
+    "id": 76,
+    "country": "Indonesia",
+    "code": "id",
+    "level": "easy"
+  },
+  {
+    "id": 77,
+    "country": "Iran",
+    "code": "ir",
+    "level": "easy"
+  },
+  {
+    "id": 78,
+    "country": "Iraq",
+    "code": "iq",
+    "level": "easy"
+  },
+  {
+    "id": 79,
+    "country": "Ireland",
+    "code": "ie",
+    "level": "easy"
+  },
+  {
+    "id": 80,
+    "country": "Israel",
+    "code": "il",
+    "level": "easy"
+  },
+  {
+    "id": 81,
+    "country": "Italy",
+    "code": "it",
+    "level": "easy"
+  },
+  {
+    "id": 82,
+    "country": "Ivory Coast",
+    "code": "ci",
+    "level": "hard"
+  },
+  {
+    "id": 83,
+    "country": "Jamaica",
+    "code": "jm",
+    "level": "easy"
+  },
+  {
+    "id": 84,
+    "country": "Japan",
+    "code": "jp",
+    "level": "easy"
+  },
+  {
+    "id": 85,
+    "country": "Jordan",
+    "code": "jo",
+    "level": "hard"
+  },
+  {
+    "id": 86,
+    "country": "Kazakhstan",
+    "code": "kz",
+    "level": "hard"
+  },
+  {
+    "id": 87,
+    "country": "Kenya",
+    "code": "ke",
+    "level": "easy"
+  },
+  {
+    "id": 88,
+    "country": "Kiribati",
+    "code": "ki",
+    "level": "hard"
+  },
+  {
+    "id": 89,
+    "country": "Kosovo",
+    "code": "xk",
+    "level": "hard"
+  },
+  {
+    "id": 90,
+    "country": "Kuwait",
+    "code": "kw",
+    "level": "hard"
+  },
+  {
+    "id": 91,
+    "country": "Kyrgyzstan",
+    "code": "kg",
+    "level": "hard"
+  },
+  {
+    "id": 92,
+    "country": "Laos",
+    "code": "la",
+    "level": "hard"
+  },
+  {
+    "id": 93,
+    "country": "Latvia",
+    "code": "lv",
+    "level": "hard"
+  },
+  {
+    "id": 94,
+    "country": "Lebanon",
+    "code": "lb",
+    "level": "hard"
+  },
+  {
+    "id": 95,
+    "country": "Lesotho",
+    "code": "ls",
+    "level": "hard"
+  },
+  {
+    "id": 96,
+    "country": "Liberia",
+    "code": "lr",
+    "level": "hard"
+  },
+  {
+    "id": 97,
+    "country": "Libya",
+    "code": "ly",
+    "level": "hard"
+  },
+  {
+    "id": 98,
+    "country": "Liechtenstein",
+    "code": "li",
+    "level": "hard"
+  },
+  {
+    "id": 99,
+    "country": "Lithuania",
+    "code": "lt",
+    "level": "hard"
+  },
+  {
+    "id": 100,
+    "country": "Luxembourg",
+    "code": "lu",
+    "level": "hard"
+  },
+  {
+    "id": 101,
+    "country": "Madagascar",
+    "code": "mg",
+    "level": "hard"
+  },
+  {
+    "id": 102,
+    "country": "Malawi",
+    "code": "mw",
+    "level": "hard"
+  },
+  {
+    "id": 103,
+    "country": "Malaysia",
+    "code": "my",
+    "level": "easy"
+  },
+  {
+    "id": 104,
+    "country": "Maldives",
+    "code": "mv",
+    "level": "hard"
+  },
+  {
+    "id": 105,
+    "country": "Mali",
+    "code": "ml",
+    "level": "hard"
+  },
+  {
+    "id": 106,
+    "country": "Malta",
+    "code": "mt",
+    "level": "hard"
+  },
+  {
+    "id": 107,
+    "country": "Marshall Islands",
+    "code": "mh",
+    "level": "hard"
+  },
+  {
+    "id": 108,
+    "country": "Mauritania",
+    "code": "mr",
+    "level": "hard"
+  },
+  {
+    "id": 109,
+    "country": "Mauritius",
+    "code": "mu",
+    "level": "hard"
+  },
+  {
+    "id": 110,
+    "country": "Mexico",
+    "code": "mx",
+    "level": "easy"
+  },
+  {
+    "id": 111,
+    "country": "Micronesia",
+    "code": "fm",
+    "level": "hard"
+  },
+  {
+    "id": 112,
+    "country": "Moldova",
+    "code": "md",
+    "level": "hard"
+  },
+  {
+    "id": 113,
+    "country": "Monaco",
+    "code": "mc",
+    "level": "hard"
+  },
+  {
+    "id": 114,
+    "country": "Mongolia",
+    "code": "mn",
+    "level": "hard"
+  },
+  {
+    "id": 115,
+    "country": "Montenegro",
+    "code": "me",
+    "level": "hard"
+  },
+  {
+    "id": 116,
+    "country": "Morocco",
+    "code": "ma",
+    "level": "easy"
+  },
+  {
+    "id": 117,
+    "country": "Mozambique",
+    "code": "mz",
+    "level": "hard"
+  },
+  {
+    "id": 118,
+    "country": "Myanmar",
+    "code": "mm",
+    "level": "hard"
+  },
+  {
+    "id": 119,
+    "country": "Namibia",
+    "code": "na",
+    "level": "hard"
+  },
+  {
+    "id": 120,
+    "country": "Nauru",
+    "code": "nr",
+    "level": "hard"
+  },
+  {
+    "id": 121,
+    "country": "Nepal",
+    "code": "np",
+    "level": "hard"
+  },
+  {
+    "id": 122,
+    "country": "Netherlands",
+    "code": "nl",
+    "level": "easy"
+  },
+  {
+    "id": 123,
+    "country": "New Zealand",
+    "code": "nz",
+    "level": "easy"
+  },
+  {
+    "id": 124,
+    "country": "Nicaragua",
+    "code": "ni",
+    "level": "hard"
+  },
+  {
+    "id": 125,
+    "country": "Niger",
+    "code": "ne",
+    "level": "hard"
+  },
+  {
+    "id": 126,
+    "country": "Nigeria",
+    "code": "ng",
+    "level": "easy"
+  },
+  {
+    "id": 127,
+    "country": "North Korea",
+    "code": "kp",
+    "level": "hard"
+  },
+  {
+    "id": 128,
+    "country": "North Macedonia",
+    "code": "mk",
+    "level": "hard"
+  },
+  {
+    "id": 129,
+    "country": "Norway",
+    "code": "no",
+    "level": "easy"
+  },
+  {
+    "id": 130,
+    "country": "Oman",
+    "code": "om",
+    "level": "hard"
+  },
+  {
+    "id": 131,
+    "country": "Pakistan",
+    "code": "pk",
+    "level": "easy"
+  },
+  {
+    "id": 132,
+    "country": "Palau",
+    "code": "pw",
+    "level": "hard"
+  },
+  {
+    "id": 133,
+    "country": "Palestine",
+    "code": "ps",
+    "level": "hard"
+  },
+  {
+    "id": 134,
+    "country": "Panama",
+    "code": "pa",
+    "level": "hard"
+  },
+  {
+    "id": 135,
+    "country": "Papua New Guinea",
+    "code": "pg",
+    "level": "hard"
+  },
+  {
+    "id": 136,
+    "country": "Paraguay",
+    "code": "py",
+    "level": "hard"
+  },
+  {
+    "id": 137,
+    "country": "Peru",
+    "code": "pe",
+    "level": "easy"
+  },
+  {
+    "id": 138,
+    "country": "Philippines",
+    "code": "ph",
+    "level": "easy"
+  },
+  {
+    "id": 139,
+    "country": "Poland",
+    "code": "pl",
+    "level": "easy"
+  },
+  {
+    "id": 140,
+    "country": "Portugal",
+    "code": "pt",
+    "level": "easy"
+  },
+  {
+    "id": 141,
+    "country": "Qatar",
+    "code": "qa",
+    "level": "hard"
+  },
+  {
+    "id": 142,
+    "country": "Republic of the Congo",
+    "code": "cg",
+    "level": "hard"
+  },
+  {
+    "id": 143,
+    "country": "Romania",
+    "code": "ro",
+    "level": "hard"
+  },
+  {
+    "id": 144,
+    "country": "Russia",
+    "code": "ru",
+    "level": "easy"
+  },
+  {
+    "id": 145,
+    "country": "Rwanda",
+    "code": "rw",
+    "level": "hard"
+  },
+  {
+    "id": 146,
+    "country": "Saint Kitts and Nevis",
+    "code": "kn",
+    "level": "hard"
+  },
+  {
+    "id": 147,
+    "country": "Saint Lucia",
+    "code": "lc",
+    "level": "hard"
+  },
+  {
+    "id": 148,
+    "country": "Saint Vincent and the Grenadines",
+    "code": "vc",
+    "level": "hard"
+  },
+  {
+    "id": 149,
+    "country": "Samoa",
+    "code": "ws",
+    "level": "hard"
+  },
+  {
+    "id": 150,
+    "country": "San Marino",
+    "code": "sm",
+    "level": "hard"
+  },
+  {
+    "id": 151,
+    "country": "São Tomé and Príncipe",
+    "code": "st",
+    "level": "hard"
+  },
+  {
+    "id": 152,
+    "country": "Saudi Arabia",
+    "code": "sa",
+    "level": "easy"
+  },
+  {
+    "id": 153,
+    "country": "Senegal",
+    "code": "sn",
+    "level": "hard"
+  },
+  {
+    "id": 154,
+    "country": "Serbia",
+    "code": "rs",
+    "level": "hard"
+  },
+  {
+    "id": 155,
+    "country": "Seychelles",
+    "code": "sc",
+    "level": "hard"
+  },
+  {
+    "id": 156,
+    "country": "Sierra Leone",
+    "code": "sl",
+    "level": "hard"
+  },
+  {
+    "id": 157,
+    "country": "Singapore",
+    "code": "sg",
+    "level": "easy"
+  },
+  {
+    "id": 158,
+    "country": "Slovakia",
+    "code": "sk",
+    "level": "hard"
+  },
+  {
+    "id": 159,
+    "country": "Slovenia",
+    "code": "si",
+    "level": "hard"
+  },
+  {
+    "id": 160,
+    "country": "Solomon Islands",
+    "code": "sb",
+    "level": "hard"
+  },
+  {
+    "id": 161,
+    "country": "Somalia",
+    "code": "so",
+    "level": "hard"
+  },
+  {
+    "id": 162,
+    "country": "South Africa",
+    "code": "za",
+    "level": "easy"
+  },
+  {
+    "id": 163,
+    "country": "South Korea",
+    "code": "kr",
+    "level": "easy"
+  },
+  {
+    "id": 164,
+    "country": "South Sudan",
+    "code": "ss",
+    "level": "hard"
+  },
+  {
+    "id": 165,
+    "country": "Spain",
+    "code": "es",
+    "level": "easy"
+  },
+  {
+    "id": 166,
+    "country": "Sri Lanka",
+    "code": "lk",
+    "level": "hard"
+  },
+  {
+    "id": 167,
+    "country": "Sudan",
+    "code": "sd",
+    "level": "hard"
+  },
+  {
+    "id": 168,
+    "country": "Suriname",
+    "code": "sr",
+    "level": "hard"
+  },
+  {
+    "id": 169,
+    "country": "Sweden",
+    "code": "se",
+    "level": "easy"
+  },
+  {
+    "id": 170,
+    "country": "Switzerland",
+    "code": "ch",
+    "level": "easy"
+  },
+  {
+    "id": 171,
+    "country": "Syria",
+    "code": "sy",
+    "level": "hard"
+  },
+  {
+    "id": 172,
+    "country": "Taiwan",
+    "code": "tw",
+    "level": "hard"
+  },
+  {
+    "id": 173,
+    "country": "Tajikistan",
+    "code": "tj",
+    "level": "hard"
+  },
+  {
+    "id": 174,
+    "country": "Tanzania",
+    "code": "tz",
+    "level": "hard"
+  },
+  {
+    "id": 175,
+    "country": "Thailand",
+    "code": "th",
+    "level": "easy"
+  },
+  {
+    "id": 176,
+    "country": "Timor-Leste",
+    "code": "tl",
+    "level": "hard"
+  },
+  {
+    "id": 177,
+    "country": "Togo",
+    "code": "tg",
+    "level": "hard"
+  },
+  {
+    "id": 178,
+    "country": "Tonga",
+    "code": "to",
+    "level": "hard"
+  },
+  {
+    "id": 179,
+    "country": "Trinidad and Tobago",
+    "code": "tt",
+    "level": "hard"
+  },
+  {
+    "id": 180,
+    "country": "Tunisia",
+    "code": "tn",
+    "level": "hard"
+  },
+  {
+    "id": 181,
+    "country": "Türkiye",
+    "code": "tr",
+    "level": "easy"
+  },
+  {
+    "id": 182,
+    "country": "Turkmenistan",
+    "code": "tm",
+    "level": "hard"
+  },
+  {
+    "id": 183,
+    "country": "Tuvalu",
+    "code": "tv",
+    "level": "hard"
+  },
+  {
+    "id": 184,
+    "country": "Uganda",
+    "code": "ug",
+    "level": "hard"
+  },
+  {
+    "id": 185,
+    "country": "Ukraine",
+    "code": "ua",
+    "level": "easy"
+  },
+  {
+    "id": 186,
+    "country": "United Arab Emirates",
+    "code": "ae",
+    "level": "easy"
+  },
+  {
+    "id": 187,
+    "country": "United Kingdom",
+    "code": "gb",
+    "level": "easy"
+  },
+  {
+    "id": 188,
+    "country": "United States",
+    "code": "us",
+    "level": "easy"
+  },
+  {
+    "id": 189,
+    "country": "Uruguay",
+    "code": "uy",
+    "level": "easy"
+  },
+  {
+    "id": 190,
+    "country": "Uzbekistan",
+    "code": "uz",
+    "level": "hard"
+  },
+  {
+    "id": 191,
+    "country": "Vanuatu",
+    "code": "vu",
+    "level": "hard"
+  },
+  {
+    "id": 192,
+    "country": "Vatican City",
+    "code": "va",
+    "level": "hard"
+  },
+  {
+    "id": 193,
+    "country": "Venezuela",
+    "code": "ve",
+    "level": "hard"
+  },
+  {
+    "id": 194,
+    "country": "Vietnam",
+    "code": "vn",
+    "level": "easy"
+  },
+  {
+    "id": 195,
+    "country": "Yemen",
+    "code": "ye",
+    "level": "hard"
+  },
+  {
+    "id": 196,
+    "country": "Zambia",
+    "code": "zm",
+    "level": "hard"
+  },
+  {
+    "id": 197,
+    "country": "Zimbabwe",
+    "code": "zw",
+    "level": "hard"
+  },
+  {
+    "id": 198,
+    "country": "Åland Islands",
+    "code": "ax",
+    "level": "hard"
+  },
+  {
+    "id": 199,
+    "country": "American Samoa",
+    "code": "as",
+    "level": "hard"
+  },
+  {
+    "id": 200,
+    "country": "Anguilla",
+    "code": "ai",
+    "level": "hard"
+  },
+  {
+    "id": 201,
+    "country": "Aruba",
+    "code": "aw",
+    "level": "hard"
+  }
+]

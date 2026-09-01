@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Admin — Flag Guess Game</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <a class="back-link" href="index.html">&larr; Back</a>
+  <h1 style="margin-bottom:4px;">Manage Flags</h1>
+  <p class="subtitle">Easy = 1 point &middot; Hard = 2 points</p>
+
+  <div class="card" style="max-width: 640px;">
+    <h3 style="margin-top:0;">Add a flag</h3>
+    <div class="form-row">
+      <input type="text" id="countryInput" placeholder="Country name (e.g. Canada)">
+      <input type="text" id="codeInput" placeholder="ISO code (e.g. ca)" maxlength="2">
+      <select id="levelInput" class="level-select">
+        <option value="easy">Easy</option>
+        <option value="hard">Hard</option>
+      </select>
+      <button class="btn-primary" onclick="addFlag()">Add</button>
+    </div>
+    <p class="error-msg" id="formError"></p>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Flag</th>
+          <th>Country</th>
+          <th>Code</th>
+          <th>Level</th>
+          <th>Points</th>
+          <th></th>
+        </tr>
+      </thead>
+      <tbody id="flagsTableBody"></tbody>
+    </table>
+  </div>
+
+  <script src="admin.js"></script>
+</body>
+</html>
