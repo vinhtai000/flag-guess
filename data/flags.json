@@ -1204,5 +1204,323 @@
     "country": "Aruba",
     "code": "aw",
     "level": "hard"
+  },
+  {
+    "id": 202,
+    "country": "Ascension Island",
+    "code": "ac",
+    "level": "hard"
+  },
+  {
+    "id": 203,
+    "country": "Bermuda",
+    "code": "bm",
+    "level": "hard"
+  },
+  {
+    "id": 204,
+    "country": "Bonaire, Sint Eustatius and Saba",
+    "code": "bq",
+    "level": "hard"
+  },
+  {
+    "id": 205,
+    "country": "British Indian Ocean Territory",
+    "code": "io",
+    "level": "hard"
+  },
+  {
+    "id": 206,
+    "country": "British Virgin Islands",
+    "code": "vg",
+    "level": "hard"
+  },
+  {
+    "id": 207,
+    "country": "Cayman Islands",
+    "code": "ky",
+    "level": "hard"
+  },
+  {
+    "id": 208,
+    "country": "Christmas Island",
+    "code": "cx",
+    "level": "hard"
+  },
+  {
+    "id": 209,
+    "country": "Cocos (Keeling) Islands",
+    "code": "cc",
+    "level": "hard"
+  },
+  {
+    "id": 210,
+    "country": "Cook Islands",
+    "code": "ck",
+    "level": "hard"
+  },
+  {
+    "id": 211,
+    "country": "Curaçao",
+    "code": "cw",
+    "level": "hard"
+  },
+  {
+    "id": 212,
+    "country": "Falkland Islands",
+    "code": "fk",
+    "level": "hard"
+  },
+  {
+    "id": 213,
+    "country": "Faroe Islands",
+    "code": "fo",
+    "level": "hard"
+  },
+  {
+    "id": 214,
+    "country": "French Guiana",
+    "code": "gf",
+    "level": "hard"
+  },
+  {
+    "id": 215,
+    "country": "French Polynesia",
+    "code": "pf",
+    "level": "hard"
+  },
+  {
+    "id": 216,
+    "country": "French Southern and Antarctic Lands",
+    "code": "tf",
+    "level": "hard"
+  },
+  {
+    "id": 217,
+    "country": "Gibraltar",
+    "code": "gi",
+    "level": "hard"
+  },
+  {
+    "id": 218,
+    "country": "Greenland",
+    "code": "gl",
+    "level": "hard"
+  },
+  {
+    "id": 219,
+    "country": "Guadeloupe",
+    "code": "gp",
+    "level": "hard"
+  },
+  {
+    "id": 220,
+    "country": "Guam",
+    "code": "gu",
+    "level": "hard"
+  },
+  {
+    "id": 221,
+    "country": "Guernsey",
+    "code": "gg",
+    "level": "hard"
+  },
+  {
+    "id": 222,
+    "country": "Hong Kong",
+    "code": "hk",
+    "level": "hard"
+  },
+  {
+    "id": 223,
+    "country": "Isle of Man",
+    "code": "im",
+    "level": "hard"
+  },
+  {
+    "id": 224,
+    "country": "Jersey",
+    "code": "je",
+    "level": "hard"
+  },
+  {
+    "id": 225,
+    "country": "Macau",
+    "code": "mo",
+    "level": "hard"
+  },
+  {
+    "id": 226,
+    "country": "Martinique",
+    "code": "mq",
+    "level": "hard"
+  },
+  {
+    "id": 227,
+    "country": "Mayotte",
+    "code": "yt",
+    "level": "hard"
+  },
+  {
+    "id": 228,
+    "country": "Montserrat",
+    "code": "ms",
+    "level": "hard"
+  },
+  {
+    "id": 229,
+    "country": "New Caledonia",
+    "code": "nc",
+    "level": "hard"
+  },
+  {
+    "id": 230,
+    "country": "Niue",
+    "code": "nu",
+    "level": "hard"
+  },
+  {
+    "id": 231,
+    "country": "Norfolk Island",
+    "code": "nf",
+    "level": "hard"
+  },
+  {
+    "id": 232,
+    "country": "Northern Mariana Islands",
+    "code": "mp",
+    "level": "hard"
+  },
+  {
+    "id": 233,
+    "country": "Pitcairn Islands",
+    "code": "pn",
+    "level": "hard"
+  },
+  {
+    "id": 234,
+    "country": "Puerto Rico",
+    "code": "pr",
+    "level": "hard"
+  },
+  {
+    "id": 235,
+    "country": "Réunion",
+    "code": "re",
+    "level": "hard"
+  },
+  {
+    "id": 236,
+    "country": "Saint Barthélemy",
+    "code": "bl",
+    "level": "hard"
+  },
+  {
+    "id": 237,
+    "country": "Saint Helena, Ascension and Tristan da Cunha",
+    "code": "sh",
+    "level": "hard"
+  },
+  {
+    "id": 238,
+    "country": "Saint Martin",
+    "code": "mf",
+    "level": "hard"
+  },
+  {
+    "id": 239,
+    "country": "Saint Pierre and Miquelon",
+    "code": "pm",
+    "level": "hard"
+  },
+  {
+    "id": 240,
+    "country": "Sint Maarten",
+    "code": "sx",
+    "level": "hard"
+  },
+  {
+    "id": 241,
+    "country": "South Georgia and the South Sandwich Islands",
+    "code": "gs",
+    "level": "hard"
+  },
+  {
+    "id": 242,
+    "country": "Svalbard and Jan Mayen",
+    "code": "sj",
+    "level": "hard"
+  },
+  {
+    "id": 243,
+    "country": "Tokelau",
+    "code": "tk",
+    "level": "hard"
+  },
+  {
+    "id": 244,
+    "country": "Turks and Caicos Islands",
+    "code": "tc",
+    "level": "hard"
+  },
+  {
+    "id": 245,
+    "country": "United States Minor Outlying Islands",
+    "code": "um",
+    "level": "hard"
+  },
+  {
+    "id": 246,
+    "country": "United States Virgin Islands",
+    "code": "vi",
+    "level": "hard"
+  },
+  {
+    "id": 247,
+    "country": "Wallis and Futuna",
+    "code": "wf",
+    "level": "hard"
+  },
+  {
+    "id": 248,
+    "country": "Western Sahara",
+    "code": "eh",
+    "level": "hard"
+  },
+  {
+    "id": 249,
+    "country": "England",
+    "code": "england",
+    "level": "hard"
+  },
+  {
+    "id": 250,
+    "country": "Northern Ireland",
+    "code": "ni",
+    "level": "hard"
+  },
+  {
+    "id": 251,
+    "country": "Scotland",
+    "code": "scotland",
+    "level": "hard"
+  },
+  {
+    "id": 252,
+    "country": "Wales",
+    "code": "wales",
+    "level": "hard"
+  },
+  {
+    "id": 253,
+    "country": "Antarctica",
+    "code": "aq",
+    "level": "hard"
+  },
+  {
+    "id": 254,
+    "country": "Bouvet Island",
+    "code": "bv",
+    "level": "hard"
   }
 ]
